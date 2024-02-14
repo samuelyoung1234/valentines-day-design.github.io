@@ -34,7 +34,7 @@ body {
 .valentines-message{
   color: whitesmoke;
   font-style: italic;
-  font-size: auto;
+  font-size: 100%;
   font: auto;
   line-break: auto;
   line-height:auto ;
