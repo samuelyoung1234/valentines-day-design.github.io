@@ -38,6 +38,9 @@ body {
   font: auto;
   line-break: auto;
   line-height: auto;
+  width:23%;
+  height:24%;
+  text-size:100%;
 }
 .flowers {
   position: relative;
