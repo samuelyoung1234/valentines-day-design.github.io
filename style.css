@@ -34,14 +34,13 @@ body {
 .valentines-message{
   color: whitesmoke;
   font-style: italic;
-  font-size: 100%;
-  font: auto DejaVu Sans Mono;
+  font-size: auto;
+  font: auto;
   line-break: auto;
-  line-height: 100% ;
+  line-height:auto ;
   width:23%;
   height:24%;
-  text-size:100%;
-}
+  }
 .flowers {
   position: relative;
   transform: scale(0.9);
